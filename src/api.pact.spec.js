@@ -20,7 +20,8 @@ describe('API Pact test', () => {
         id: '10',
         type: 'CREDIT_CARD',
         name: '28 Degrees',
-        color: 'red'
+        color: 'red',
+        author: 'Trent'
       };
 
       // Uncomment to see this fail
